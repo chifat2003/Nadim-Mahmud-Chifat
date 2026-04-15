@@ -2,7 +2,7 @@
 
 <!-- 🔥 Banner Image -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Welcome+To+My+Profile](https://media.licdn.com/dms/image/v2/D5616AQFSl8CJGda8-A/profile-displaybackgroundimage-shrink_200_800/B56Z2PcVaSKkAU-/0/1776228064900?e=1778112000&v=beta&t=73Dx2lGr46smn-KyJ9UI9Cr2Of_kU-D4VNtFxYL4n7w" alt="banner" />
+  <img src="./118.jpg" alt="banner" />
 </p>
 
 ---
